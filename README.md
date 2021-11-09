@@ -1,4 +1,4 @@
-![Олег Гежин. Oleg Gezhin.](./mikepro_256px.jpg)
+![Олег Гежин. Oleg Gezhin.](./my_photo.jpeg)
 
 ### Привет!
 
