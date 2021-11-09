@@ -3,7 +3,7 @@
 ### Привет!
 
 Я <b>Олег Гежин</b>, разработчик на Python.
-
+#### [Обо мне](https://github.com/OlegGezhin/OlegGezhin/blob/main/GezhinOlegResume.pdf)
 ### Вот, что я умею
 
 - [Дипломная работа по курсу "Python для анализа данных"](https://github.com/OlegGezhin/Python_for_DA/blob/main/diplom.ipynb)
