@@ -8,6 +8,7 @@
 
 - [Дипломная работа по курсу "Python для анализа данных"](https://github.com/OlegGezhin/Python_for_DA/blob/main/diplom.ipynb)
 - [Дипломная работа по курсу «Основы языка программирования Python»](https://github.com/OlegGezhin/Python_Dev)
+- [Сайт разработанный с использованием Django и Bootstrap](https://github.com/OlegGezhin/django_python_1/blob/main/README.md)
 
 
 
